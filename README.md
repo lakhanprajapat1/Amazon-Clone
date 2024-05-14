@@ -1,2 +1,4 @@
 # Amazon-Clone
-Make a Amazon clone using HTML &amp; CSS. 
+Make a Amazon clone 
+<br>
+using HTML, CSS & JAVASCRIPT.
